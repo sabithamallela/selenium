@@ -2,7 +2,7 @@ Feature:price
   As an end user
   I Want to search for product nike
   So That I can view products within the range
-  @ms
+
   Scenario: price range
     Given I am on homepage
     When I search for product nike
